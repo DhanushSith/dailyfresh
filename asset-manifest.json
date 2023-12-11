@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dailyfresh/static/css/main.7962705e.css",
+    "main.js": "/dailyfresh/static/js/main.46e12765.js",
+    "static/js/787.5ecafdf3.chunk.js": "/dailyfresh/static/js/787.5ecafdf3.chunk.js",
+    "static/media/logo.png": "/dailyfresh/static/media/logo.17d6b77f1e8f3b185f6d.png",
+    "index.html": "/dailyfresh/index.html",
+    "main.7962705e.css.map": "/dailyfresh/static/css/main.7962705e.css.map",
+    "main.46e12765.js.map": "/dailyfresh/static/js/main.46e12765.js.map",
+    "787.5ecafdf3.chunk.js.map": "/dailyfresh/static/js/787.5ecafdf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7962705e.css",
+    "static/js/main.46e12765.js"
+  ]
+}
